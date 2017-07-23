@@ -1,2 +1,2 @@
 # louisdalligos.github.io
-A static single-page application developed using React.js and JSON Resume schema
+A static single-page site for my online resume.
