@@ -10,8 +10,9 @@ Preview locally with `python -m http.server 4173`.
 
 ## Content status
 
-- Ongoing portfolio updates; final resume is pending.
-- The site displays "Resume coming soon". Do not add a download until Louis supplies the approved resume.
+- Resume supplied by Louis on November 3, 2026; the revised PDF is downloadable at `assets/Louis_Dalligos_Resume.pdf`.
+- The resume preserves the supplied Carlito fonts and two-page layout. It removes mentoring claims, replaces profile URLs with the portfolio URL, and describes the DTN user-management contribution as frontend integration through the API gateway using Next.js/React, TanStack Query, and Axios.
+- Public resume contact details follow Louis's preference: email and city, with no phone number or postal code. Hidden duplicate text layers from the supplied PDF have been removed.
 - No draft resumes, private contact details, application credentials, or employer source code are included.
 - Architecture and workflow visuals are HTML/CSS diagrams.
 - Publicly unverified project repository/demo links are omitted.
